@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.66.0",
+    "path": "^0.12.7",
+    "playwright": "^1.49.1",
+    "selenium-webdriver": "^4.27.0",
+    "user-agent": "^1.0.4",
+    "user-agents": "^1.1.386"
+  }
+}
